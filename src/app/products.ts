@@ -8,27 +8,27 @@ export interface Product {
 export const products = [
   {
     id: 1,
-    name: 'Phone XL',
+    name: 'E-Gitarre',
     price: 799,
-    description: 'A large phone with one of the best screens',
+    description: 'Ist wie eine akustische Gitarre, nur halt elektrisch...',
   },
   {
     id: 2,
-    name: 'Phone Mini',
+    name: 'Super-Strat',
     price: 699,
-    description: 'A great phone with one of the best cameras',
+    description: 'Einfach super!',
   },
   {
     id: 3,
-    name: 'Phone Standard',
+    name: '7-Saiter',
     price: 299,
     description: '',
   },
   {
     id: 4,
-    name: 'Android Phony',
+    name: 'Surfcaster',
     price: 411,
-    description: 'Fine',
+    description: 'Nicht als Surfbrett verwendbar!!!',
   },
 ];
 
